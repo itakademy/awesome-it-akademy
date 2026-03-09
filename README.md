@@ -28,17 +28,18 @@ Contributions are welcome.
 
 # Contents
 
-- Programming
-- Cybersecurity
-- DevOps & Cloud
-- Artificial Intelligence
-- Computer Science Fundamentals
-- Tools & Productivity
-- Tech News & Blogs
-- YouTube Channels
-- Podcasts
-- Books
-- Career & Learning
+- [Programming](#programming)
+- [Cybersecurity](#cybersecurity)
+- [DevOps & Cloud](#devops--cloud)
+- [Artificial Intelligence](#artificial-intelligence)
+- [Computer Science Fundamentals](#computer-science-fundamentals)
+- [Tech Culture](#tech-culture)
+- [Tools & Productivity](#tools--productivity)
+- [Tech News & Blogs](#tech-news--blogs)
+- [YouTube Channels](#youtube-channels)
+- [Podcasts](#podcasts)
+- [Books](#books)
+- [Career & Learning](#career--learning)
 
 ---
 
@@ -102,6 +103,13 @@ Contributions are welcome.
 
 ---
 
+# Tech Culture
+
+- https://16colo.rs – ANSI and ASCII art archive
+- https://github.com/lardissone/ansi-saver – macOS screensaver for ANSI art
+
+---
+
 # Tools & Productivity
 
 - https://git-scm.com/docs – Git documentation
@@ -120,11 +128,12 @@ Contributions are welcome.
 
 # YouTube Channels
 
-- Fireship
-- The Primeagen
-- NetworkChuck
-- Computerphile
-- LiveOverflow
+- https://www.youtube.com/@Computerphile – Computer science topics explained
+- https://www.youtube.com/@fireship – Fast-paced dev tutorials
+- https://www.youtube.com/@LiveOverflow – Hacking and security research
+- https://www.youtube.com/@NetworkChuck – Networking and cybersecurity
+- https://www.youtube.com/@siliconcarnepod – Tech industry from Silicon Valley (FR)
+- https://www.youtube.com/@ThePrimeagen – Software engineering and performance
 
 ---
 
