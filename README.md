@@ -164,19 +164,7 @@ Contributions are welcome.
 
 # Contributing
 
-Contributions are welcome.
-
-If you want to add a resource:
-
-1. Fork the repository
-2. Add your link
-3. Open a pull request
-
-Please ensure:
-
-- high quality content
-- no spam
-- educational value
+Contributions are welcome! Please read the [contributing guidelines](CONTRIBUTING.md) before submitting a pull request.
 
 ---
 
